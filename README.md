@@ -1,15 +1,14 @@
-# PhishyMail AI
+<div align="center">
+  <img src="https://i.imgur.com/1hTgX65.png" alt="Logo" height="200" width="200"/>
+  <h1>PhishyMail AI</h1>
+</div>
 
-Developed and evaluated machine learning models for real-time phishing email detection by analyzing natural language and sender metadata, applying logistic regression, Random Forest, and NLP techniques. Leveraged Python, data preprocessing, and performance evaluation metrics.
+PhishyMail AI is a machine learning–powered system for detecting phishing emails. It analyzes the content and metadata of incoming emails using natural language processing. The system incorporates logistic regression and Random Forest classifiers to distinguish phishing attempts from legitimate messages, leveraging Python-based preprocessing, feature extraction, and robust evaluation metrics to ensure high detection accuracy.
 
 
-## Problem Statement <!--- do not change this line -->
+## Problem Statement
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
-
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+With phishing attacks becoming increasingly sophisticated and widespread, the need for real-time, reliable detection of these emails is more urgent than ever. This project addresses a critical cybersecurity threat by using machine learning to protect users from deceptive emails, ultimately enhancing online safety and reducing the risk of personal data breaches.
 
 ## Key Results <!--- do not change this line -->
 
@@ -33,15 +32,12 @@ Enumerate the main results of this project in a list and describe them.
 *Engineered a Python script to generate over 1,000 prompts and elicit their responses from ChatGPT, utilizing pandas to collect the data. When prompted for solutions to this specific relevant crisis, nearly 80% of ChatGPT's responses promoted a certain worldview.*
 
 
-## Data Sources <!--- do not change this line -->
+## Data Sources
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
+[Link to Datasets](https://drive.google.com/drive/folders/1sBO10D3sSdqMvb27fH-g3BI_ro63MyjW?dmr=1&ec=wgc-drive-hero-goto)
 
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
 
-## Technologies Used <!--- do not change this line -->
+## Technologies Used
 
 (UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
@@ -59,7 +55,7 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 
 *EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
-
-[Link to Datasets](https://drive.google.com/drive/folders/1sBO10D3sSdqMvb27fH-g3BI_ro63MyjW?dmr=1&ec=wgc-drive-hero-goto)
+- *Bisesh Rana ([john.doe@example.com](mailto:john.doe@nyu.edu))*
+- *Mohamed Mudawi ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Bonnie Morales ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Bukola Awotoye ([jane.smith@example.com](mailto:jane.smith@example.com))*
