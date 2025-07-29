@@ -39,23 +39,17 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Technologies Used
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
 
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+</p>
 
 
-## Authors <!--- do not change this line -->
+## Authors 
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *Bisesh Rana ([john.doe@example.com](mailto:john.doe@nyu.edu))*
-- *Mohamed Mudawi ([jane.smith@example.com](mailto:jane.smith@example.com))*
-- *Bonnie Morales ([jane.smith@example.com](mailto:jane.smith@example.com))*
-- *Bukola Awotoye ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Mohamed Mudawi [LinkedIn](https://www.linkedin.com/in/mohamed-mud/)*
+- *Bisesh Rana*
+- *Bonnie Morales*
+- *Bukola Awotoye*
