@@ -7,7 +7,7 @@ PhishyMail AI is a machine learning–powered system for detecting phishing emai
 
 ## Getting Started
 
-**put in instructions to run locally**
+*put in instructions to run locally*
 
 
 ## Problem Statement
